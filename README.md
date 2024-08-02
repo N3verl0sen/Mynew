@@ -1,2 +1,2 @@
 # Mynew
-A folder (or not)
+A file with python scripts (گءڈگھ) Not important.
